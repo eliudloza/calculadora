@@ -1,0 +1,49 @@
+body{
+    background-color: seagreen;
+}
+
+.cuadro{
+    background-color: white;
+    margin-left: 1px;
+    margin-top: 1px;
+    width: 50px;
+    height: 50px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: rgb(201,201,203)
+}
+.cuadrona{
+    background-color: white;
+    margin-left: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    margin-top: 1px;
+    width: 50px;
+    height: 50px;
+    
+    background-color: rgb(245,144,32)
+}
+.cuadrocero{
+    
+    margin-left: 1px;
+    margin-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 101px;
+    background-color: rgb(201,201,203)
+}
+.resultado{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(31,31, 31);
+    margin-left: 1px;
+    width: 204px;
+    height: 80px;
+    text-align: right;
+}
+.container{
+    margin-top: 40px;
+}
